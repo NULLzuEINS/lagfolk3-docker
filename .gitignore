@@ -1,0 +1,5 @@
+.idea
+.env
+build/mysql/Dockerfile
+code/app/logs/
+docker-compose.override.yml
